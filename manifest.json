@@ -7,7 +7,13 @@
         "activeTab"
     ],
     "action": {
-        "default_icon": "./images/icon.png"
+        "default_icon": "./images/icon.jpg"
+    },
+    "icons": {
+        "16": "./images/icon.jpg",
+        "32": "./images/icon.jpg",
+        "64": "./images/icon.jpg",
+        "128": "./images/icon.jpg"
     },
     "chrome_url_overrides": {
         "newtab": "index.html"
