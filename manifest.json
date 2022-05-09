@@ -1,0 +1,15 @@
+{
+    "name": "Random Quotes",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "incognito": "split",
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_icon": "./images/icon.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
